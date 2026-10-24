@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "case1-countletters",
+        "case2-parsints",
+        "case3-factorial"
+    ]
+}
